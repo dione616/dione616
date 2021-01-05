@@ -47,7 +47,7 @@ I am Junior Front-End Developer, . I love experimenting with new technologies an
   - I'm 21 years old
   
   ### Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dione616)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dione616&show_icons=true,prs&cache_seconds=86400&theme=jolly)
 [![My github stats](https://github-readme-stats.vercel.app/api?username=dione616&show_icons=true,prs&cache_seconds=86400&theme=jolly)]
 ### Social Media
 
