@@ -48,8 +48,7 @@ I am Junior Front-End Developer, . I love experimenting with new technologies an
   
   ### Github Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dione616)
-![My github stats](https://github-readme-stats.vercel.app/api?username=dione616&show_icons=true)
-[![My github stats](https://github-readme-stats.vercel.app/api?username=dione616&show_icons=true,prs&cache_seconds=86400&theme=radical)]
+[![My github stats](https://github-readme-stats.vercel.app/api?username=dione616&show_icons=true,prs&cache_seconds=86400&theme=jolly)]
 ### Social Media
 
 - **[Telegram @Vetal1604](https://t.me/Vetal1604)**
