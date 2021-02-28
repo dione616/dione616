@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dione616&repo=thapp-MERN-with-TS-and-Apollo&cache_seconds=86400&theme=synthwave)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dione616&repo=SocialNetwork-React-Redux&cache_seconds=86400&theme=radical)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dione616&repo=FootballApp-with-Stripe-payment&cache_seconds=86400&theme=omni)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dione616&repo=Pizza-React-Redux-NextJS&cache_seconds=86400&theme=jolly)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dione616&repo=thapp-MERN-with-TS-and-Apollo&cache_seconds=86400&theme=synthwave)](https://github.com/dione616/thapp-MERN-with-TS-and-Apollo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dione616&repo=SocialNetwork-React-Redux&cache_seconds=86400&theme=radical)](https://github.com/dione616/SocialNetwork-React-Redux)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dione616&repo=FootballApp-with-Stripe-payment&cache_seconds=86400&theme=omni)](https://github.com/dione616/FootballApp-with-Stripe-payment)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dione616&repo=Pizza-React-Redux-NextJS&cache_seconds=86400&theme=jolly)](https://github.com/dione616/Pizza-React-Redux-NextJS)
+
 
 
 ### Hey, It's dione616 profile
