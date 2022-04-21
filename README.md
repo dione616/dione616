@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 
 
-I am Junior Front-End Developer, . I love experimenting with new technologies and building awesome projects!!!
+I am Front-End Developer, . I love experimenting with new technologies and building awesome projects!!!
 
 - 💻 Working with React.js .
 
