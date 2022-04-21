@@ -52,7 +52,7 @@ I am Junior Front-End Developer, . I love experimenting with new technologies an
 [![My github stats](https://github-readme-stats.vercel.app/api?username=dione616&show_icons=true,prs&cache_seconds=86400&theme=jolly)]
 ### Social Media
 
-- **[Telegram @Vetal1604](https://t.me/Vetal1604)**
+- **[Telegram @Vitalii_Polushkin](https://t.me/Vitalii_Polushkin)**
 - **Email vetal160199@gmail.com**
 
 
